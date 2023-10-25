@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SasoHdz
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Material UI with ReactJS
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning SpringBoot
 - 📫 How to reach me: 
 -   Correo: isaacrdzcmd@gmail.com
 -   Liknkedin : www.linkedin.com/in/isaac-hdz-rdz
